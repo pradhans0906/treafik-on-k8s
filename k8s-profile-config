@@ -7,7 +7,7 @@ config:
     sys:rw"
   security.privileged: "true"
   security.nesting: "true"
-description: LXD profile for Kubernetes
+description: k8s profile for Kubernetes
 devices:
   eth0:
     name: eth0
